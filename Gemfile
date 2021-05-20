@@ -11,7 +11,7 @@ gem 'rails', '~> 6.0.3', '>= 6.0.3.1'
 gem 'jwt'
 gem 'rack-cors'
 
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
 gem 'rubocop', '~> 0.85.1', require: false
 
